@@ -1,0 +1,18 @@
+﻿<dc:title>Demografía histórica de Hispanoamérica, 1701-1808 (lugares)</dc:title>
+<dc:creator>HGIS de las Indias</dc:creator>
+<dc:subject>demografía</dc:subject>
+<dc:subject>censos</dc:subject>
+<dc:subject>padrones</dc:subject>
+<dc:subject>habitantes</dc:subject>
+<dc:subject>población</dc:subject>
+<dc:subject>historia colonial</dc:subject>
+<dc:publisher>HGIS de las Indias, funded by FWF (Austrian Science Fund), P 26379-G18.</dc:publisher>
+<dc:contributor>Werner Stangl</dc:contributor>
+<dcterms:issued>2017-01-15</dcterms:issued>
+<dc:type>Shapefile</dc:type>
+<dcterms:bibliographicCitation>HGIS de las Indias, de Hispanoamérica, 1701-1808 (recurso electrónico 2017ff).</dcterms:bibliographicCitation>
+<dc:source>Fuentes de las entradas indicadas en el campo 'fuentes'. La citación completa del valor  se encuentra en https://www.hgis-indias.net/dokuwiki/doku.php?id=fuentes:[VALOR-DEL-CAMPO]</dc:source>
+<dc:language xsi:type="dcterms:ISO639-2">es</dc:language>
+<dc:coverage>Hispanoamérica</dc:coverage>
+<dc:rights>http://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
+<dcterms:accrualperiodicity>Irregular</dcterms:accrualperiodicity>
